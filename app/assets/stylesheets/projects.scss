@@ -1,0 +1,21 @@
+// Place all the styles related to the Projects controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+html {
+  background-color: #FBE9E7;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+h1 {
+  color: #5C0D0D;
+}
+
+a:link, a:visited {
+  color: #5C0D0D;
+}
+
+a:hover, a:active {
+  @extend a:link, a:visited;
+  font-weight: bold;
+}

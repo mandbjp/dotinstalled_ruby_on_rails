@@ -1,0 +1,12 @@
+== README
+
+dotinstall.com を参考にしながらRuby on Rails 4の入門をしたソース。
+レッスンは以下のものである。
+http://dotinstall.com/lessons/basic_rails_v2
+
+* Ruby version
+  * ruby 2.2.3p173 (2015-08-18 revision 51636) [x86_64-linux]
+  * Rails 4.2.4
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.

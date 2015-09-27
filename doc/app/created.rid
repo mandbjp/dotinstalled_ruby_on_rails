@@ -1,0 +1,10 @@
+Sun, 27 Sep 2015 18:18:24 +0200
+README.rdoc	Sun, 27 Sep 2015 18:18:17 +0200
+app/controllers/application_controller.rb	Sun, 27 Sep 2015 10:39:54 +0200
+app/controllers/projects_controller.rb	Sun, 27 Sep 2015 17:31:37 +0200
+app/controllers/tasks_controller.rb	Sun, 27 Sep 2015 17:51:46 +0200
+app/helpers/application_helper.rb	Sun, 27 Sep 2015 10:39:54 +0200
+app/helpers/projects_helper.rb	Sun, 27 Sep 2015 13:50:36 +0200
+app/helpers/tasks_helper.rb	Sun, 27 Sep 2015 17:21:39 +0200
+app/models/project.rb	Sun, 27 Sep 2015 17:28:50 +0200
+app/models/task.rb	Sun, 27 Sep 2015 17:56:24 +0200
